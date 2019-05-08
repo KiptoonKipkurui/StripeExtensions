@@ -11,5 +11,11 @@ namespace Stripe.Stripe
         /// api key 
         /// </summary>
         public string ApiKey { get; set; }
+
+
+        /// <summary>
+        /// the currency to transact in
+        /// </summary>
+        public string Currency { get; set; }
     }
 }
