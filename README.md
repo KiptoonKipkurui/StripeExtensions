@@ -40,7 +40,7 @@ Usage
         }
 
         /// <summary>
-        /// 
+        /// Charge with stripe
         /// </summary>
         /// <param name="request"></param>
         /// <returns></returns>
